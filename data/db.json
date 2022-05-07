@@ -1,0 +1,27 @@
+{
+  "blogs": [
+    {
+      "title": "Weather Indicator",
+      "tech": "Python, Django, Bootstrap, HTML, CSS",
+      "role": "I built a weather app using python and Django.",
+      "description": "I developed a weather app for cities that displays the current climate, including temperature, pressure, geographic coordinates, and more.",
+      "id": 1
+    },
+    {
+      "title": "Can You Draw?",
+      "tech": "HTML, CSS, node.js, typescript, socket.io, canvas",
+      "role": "I worked on the frontend and made the design choices. I built the painting segment, from the brush size to the coordinates of the mouse to the colour. I also worked on media queries to maximize user experience and the problems that arise with different screen conditions.",
+      "description": "Can you draw? Let's figure it out! Challenge your friends to Can You Draw, a game where you draw and your friend guesses your drawing. There's a chatroom where you can text your friends live and let them hear what you think about their drawing!",
+      "git":"https://github.com/catherine-tao/CanYouDraw",
+      "id": 2
+    },
+    {
+      "title": "Recipes To Go",
+      "tech": "React, MongoDB, node.js, Python",
+      "role": "I worked on the frontend and built a page that takes you from a list of recipes to the chosen recipe. The page displays the recipe details, pictures, and an interactive checklist.",
+      "description": "Tired of finding easy and affordable recipes? Recipes To Go will solve your problems for breakfast, lunch, and dinner!",
+      "git":"https://github.com/bilalc3/cooking-project-program",
+      "id": 3
+    }
+  ]
+}
