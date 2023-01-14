@@ -14,16 +14,17 @@ const Homepage = () => {
       </h2>
       <br></br>
       <p>
-        <b>Languages</b>: JavaScript, C, HTML, CSS, Python
+        <b>Languages</b>: C++, C, JavaScript, TypeScript, Python, HTML, CSS
       </p>
+      <br></br>
       <p>
-        <b>Tools/Frameworks</b>: Git, React, LaTeX,
+        <b>Tools/Frameworks</b>: React, Node.js, MongoDB, Flask, PostgreSQL, Linux, Git, Jira, Confluence.
       </p>
       <br></br>
 
       <p>
-        I've worked on a recipe app and a game similar to scribble.io. Check
-        them out under: <Link to="/sideproject">side projects</Link>.
+        I've worked on a GIF Tracker, e-commerce sneaker store, and recipe app.
+        Check them out under: <Link to="/sideproject">side projects</Link>.
       </p>
     </div>
   );

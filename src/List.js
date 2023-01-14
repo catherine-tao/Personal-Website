@@ -6,9 +6,10 @@ const List = (props) => {
     <div className="blog-list">
       {blogs.map((blogitem) => (
         <div className="side" key={blogitem.id}>
-          <Link to={`/page/${blogitem.id}`}>
-            <h2>{blogitem.title}</h2>
-          </Link>
+          <a href={blogitem.git}>
+            <h2 href={blogitem.git}>{blogitem.title}</h2>
+          </a>
+
           <p>Built with: {blogitem.tech}</p>
           <p>My role: {blogitem.role}</p>
         </div>

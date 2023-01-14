@@ -3,7 +3,7 @@ import useFetch from "./useFetch";
 
 const Details = () => {
   const { id } = useParams();
-  const { data, load, error } = useFetch("http://localhost:8000/blogs/" + id);
+  const { data, load, error } = useFetch("http://localhost:3002/blogs/" + id);
 
   const goHome = useNavigate();
 
