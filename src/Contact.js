@@ -25,7 +25,7 @@ const Contact = () => {
       <br></br>
       <br></br>
       <h2>
-        Here's my <a href="">resume</a>.
+        Here's my <a href="https://drive.google.com/file/d/1TH95TWLGZI7QqoPEBcnC2GjXf1Z8weQ1/view?usp=sharing">resume</a>.
       </h2>
     </div>
   );
