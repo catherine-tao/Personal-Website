@@ -1,13 +1,6 @@
 {
   "blogs": [
     {
-      "title": "Weather Indicator",
-      "tech": "Python, Django, Bootstrap, HTML, CSS",
-      "role": "I built a weather app using python and Django.",
-      "description": "I developed a weather app for cities that displays the current climate, including temperature, pressure, geographic coordinates, and more.",
-      "id": 1
-    },
-    {
       "title": "Can You Draw?",
       "tech": "HTML, CSS, node.js, typescript, socket.io, canvas",
       "role": "I worked on the frontend and made the design choices. I built the painting segment, from the brush size to the coordinates of the mouse to the colour. I also worked on media queries to maximize user experience and the problems that arise with different screen conditions.",

@@ -8,17 +8,17 @@ const Homepage = () => {
       <h1>Get to know me!</h1>
       <h2>
         <i>
-          Hi I'm Catherine and I'm a second year Computer Science student at the
+          Hi I'm Catherine and I'm a third year computer science student at the
           University of Waterloo! I love to read, eat, bake, and code.
         </i>
       </h2>
       <br></br>
       <p>
-        <b>Languages</b>: C++, C, JavaScript, TypeScript, Python, HTML, CSS
+        <b>Languages</b>: Rust, Go, TypeScript, JavaScript, C++, C, Kotlin, Python, HTML, CSS.
       </p>
       <br></br>
       <p>
-        <b>Tools/Frameworks</b>: React, Node.js, MongoDB, Flask, PostgreSQL, Linux, Git, Jira, Confluence.
+        <b>Tools/Frameworks</b>: : React, Node.js, MongoDB, Spring, Flask, PostgreSQL, Git, Docker, Kubernetes.
       </p>
       <br></br>
 

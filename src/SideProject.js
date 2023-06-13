@@ -4,6 +4,22 @@ import useFetch from "./useFetch";
 const SideProject = () => {
   const blogs = [
     {
+      title: "ChatterBox",
+      tech: "TypeScript, Rust",
+      role: "I built a GIF Tracker app using MERN.",
+      description:
+        "Want to chat in rooms with your friends? ChatterBox is a live chat room where you can talk to your friends, anywhere, anytime!",
+      id: 6,
+      git: "https://chatapp-rust.onrender.com",
+    },    {
+      title: "Real-Time Whiteboard",
+      tech: "Kotlin, JavaFx, AWS, SQLite",
+      role: "I built a GIF Tracker app using MERN.",
+      description:
+        "The perfect real-time whiteboard collaboration tool for students and group projects",
+      id: 7,
+      git: "https://student.cs.uwaterloo.ca/~cs346/1239/course-project/gallery/index.html#real-time-collaboration",
+    },    {
       title: "GIF Tracker",
       tech: "MongoDB, Express.js, React, Node.js",
       role: "I built a GIF Tracker app using MERN.",
@@ -17,17 +33,9 @@ const SideProject = () => {
       tech: "React, Next.js, JavaScript, HTML, CSS",
       role: "I built an e-commerce site for white shoes.",
       description:
-        "I developed a fully functional mock e-commerce website for white sneakers using Sanity.io, React, and Next.js.",
+        "A fully functional mock e-commerce website for white sneakers!",
       id: 2,
       git: "https://sneakers-ebon.vercel.app/",
-    },
-    {
-      title: "Weather Indicator",
-      tech: "Python, Django, Bootstrap, HTML, CSS",
-      role: "I built a weather app using python and Django.",
-      description:
-        "I developed a weather app for cities that displays the current climate, including temperature, pressure, geographic coordinates, and more.",
-      id: 3,
     },
     {
       title: "Can You Draw?",

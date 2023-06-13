@@ -11,7 +11,7 @@ const List = (props) => {
           </a>
 
           <p>Built with: {blogitem.tech}</p>
-          <p>My role: {blogitem.role}</p>
+          <p>Description: {blogitem.description}</p>
         </div>
       ))}
     </div>
