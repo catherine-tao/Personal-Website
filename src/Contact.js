@@ -19,7 +19,7 @@ const Contact = () => {
         <img src="/pics/mail.png" className="mail" align="left"></img>
       </div>
       <br></br>
-      <h2>catherine.ttao@gmail.com</h2>
+      <h2>c32tao@uwaterloo.ca</h2>
 
       <br></br>
       <br></br>
