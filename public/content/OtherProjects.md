@@ -1,23 +1,29 @@
-## Project 1
-Description
-- Tags: Category 1
+## ChatterBox
+Want to chat in rooms with your friends? ChatterBox is a live chat room where you can talk to your friends, anywhere, anytime!
+- Tags: ChatterBox
 - Badges:
-  - Badge [blue]
+  - Rust [blue]
+  - TypeScript [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://chatapp-rust.onrender.com/]
 
-## Project 2
-Description
-- Tags: Category 2
+## White Sneakers
+A fully functional mock e-commerce website for white sneakers!
+- Tags: White Sneakers
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Next.js [blue]
+  - JavaScript [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://sneakers-ebon.vercel.app/]
 
-## Project 3
-Description
-- Tags: Category 3
+## Cooking Project
+Tired of finding easy and affordable recipes? Recipes To Go will solve your problems for breakfast, lunch, and dinner!
+- Tags: Cooking Project
 - Badges:
-  - Badge [blue]
+  -  Python [blue]
+  -  Node.js [blue]
+  -  React [blue]
+  -  MongoDB [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/bilalc3/cooking-project-program]

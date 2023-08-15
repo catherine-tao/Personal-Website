@@ -2,18 +2,18 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Cat Tao. 
+- developer & student!
+- I'm a junior at the University of Waterloo, currently studying computer science .
 
 ## About
-Write your "About" section here.
+ I love C++, ice cream, Disney movies, and cool shoes! When I'm not studying or working, I'll be baking, painting, or reading. What am I currently up to? I've been working on some cool projects and wrapping up my summer internship!
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Contact me here:
+- LinkedIn: https://linkedin.com/in/catherine-tao
+- GitHub: https://github.com/catherine-tao
+- Email: c32tao@uwaterloo.ca
 
 ## Logo
-- EB
+- CT

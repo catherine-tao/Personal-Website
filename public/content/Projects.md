@@ -1,26 +1,23 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## GIF Tracker
+Keep track of your favourite GIFs - using GIFs has never been easier!
+- ![logo512](../assets/giftracker.png)
+- Tags: GIF Tracker
 - Badges:
-  - Badge [blue]
+  - MongoDB [blue]
+  - Express.js [blue]
+  - React [blue]
+  - Node.js [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Try It Here [https://giftracker.onrender.com/]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Whiteboard
+The perfect real-time whiteboard collaboration tool for students and group projects
+- ![logo512](../assets/whiteboard.png)
+- Tags: Whiteboard
 - Badges:
-  - Badge [blue]
+  -  Kotlin [blue]
+  -  JavaFx [blue]
+  -  AWS [blue]
+  -  SQLite [blue]
 - Buttons:
-  - Link [https://example.com]
-
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Try It Here [https://student.cs.uwaterloo.ca/~cs346/1239/course-project/gallery/index.html#real-time-collaboration]

@@ -19,7 +19,7 @@ export default function Header({ color }) {
   };
   const linkedin = () => {
     window.open(
-                `${profile.linkedin}`,
+                `${"https://drive.google.com/file/d/1BfCZ2Wx4FkwON6why_bbpNns3zljNcVH/view?usp=sharing"}`,
                 "_blank",
                 "noreferrer,noopener"
               );
@@ -74,7 +74,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Let's connect!
+              My resume!
             </Button>
             <Button
               variant={"link"}

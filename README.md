@@ -32,7 +32,8 @@ After running `yarn start`, your website should be available at `http://localhos
 To edit the site name, go to `public/index.html` and change the `<title>`
 
 ```
-<title>Site Name</title>
+<title>Catherine
+</title>
 ```
 
 ## Editing Content
