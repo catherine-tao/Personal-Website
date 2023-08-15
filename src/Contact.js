@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <div className="contact">
-      <h2>Want to know more? Find me here:</h2>
+      <h2>Want to know more? You can find me here:</h2>
       <br></br>
       <a href="https://github.com/catherine-tao">
         <img src="/pics/git.png" className="git"></img>
